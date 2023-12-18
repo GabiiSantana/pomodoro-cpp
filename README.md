@@ -1,4 +1,4 @@
-# Pomodoro C++
+# Pomodoro C++ (QT CREATOR)
 
 ### Instruções:
 - Clique em "pomodoro.exe" para abrir o programa.
